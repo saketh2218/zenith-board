@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "_id": "1tsz27qex",
+      "name": "koganti saketh",
+      "email": "kogantisaketh@gmail.com",
+      "password": "$2a$10$RvEPKyJiG9/wZKcCKYx0BukZi.xaqStPkyFKS.mjqIXWAr/5Qonp.",
+      "createdAt": "2026-06-28T10:10:32.373Z",
+      "updatedAt": "2026-06-28T10:10:32.373Z"
+    }
+  ],
+  "tasks": [],
+  "notes": []
+}
